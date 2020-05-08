@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name            = 'logstash-output-applicationinsights'
-  s.version         = '0.9.2'
+  s.version         = '0.9.3'
   s.licenses        = ['Apache License (2.0)']
   s.summary         = "This plugin sends data to Application Insights."
   s.description     = "This gem is a Logstash plugin. It sends data to Application Insights."
